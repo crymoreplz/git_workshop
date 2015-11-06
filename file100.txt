@@ -1,13 +1,11 @@
-<<<<<<< HEAD
 Testfile bla bla: Name
 bla bla:Anika
-=======
-
+jennastefan testTestfile bla bla:i
+Kevin Schwahn
+ihello
 Nooshin
 
  bla bla:Anika
-
->>>>>>> c1cd80028def52311fcf89bfdcf64c309cf1a702
 Matthis Testfile bla bla:i
 stefan testTestfile bla bla:i
 
@@ -25,3 +23,4 @@ Andreas: Testfile bla bla:i
 stefan testTestfile bla bla:i
 Kevin Schwahn
 Testfile bla bla:i
+
