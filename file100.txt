@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Andreas: Testfile bla bla:i
+=======
+stefan testTestfile bla bla:i
+Kevin Schwahn
+Testfile bla bla:i
+
+>>>>>>> df0b29f663dfd33c26b2438beeb8456085b18383
